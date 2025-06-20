@@ -1,0 +1,13 @@
+bgm:startbgm.wav;
+bgm: -enter=2000;
+intro:毕业敬献|感谢诸位同学的帮助，感谢这些图像与声音，感谢！|开发人员如下(依照姓名排序)|L W W Z -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=slideIn -delayTime=5000 -hold -userForward;
+changeBg:选择背景图片 -next;
+setTextbox:on;
+miniAvatar:miniavatar.png;
+开发团队:欢迎来到这里，这里是雨中从的梦境;
+您想以哪种模式开始这一游戏呢？;
+setTextbox:hide;
+miniAvatar:none;
+changeFigure: -left -next;
+changeBg: -next;
+choose:测试:biaomoshi.txt|正式开始(伪):zhengshi.txt;

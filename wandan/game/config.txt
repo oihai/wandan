@@ -1,0 +1,8 @@
+Game_name:new;
+Game_key:13f41d43f161bf6;
+Title_img:shas.jpg;
+Title_bgm:startbgm.wav;
+Textbox_theme:imss;
+Show_panic:true;
+Default_Language:zh_CN;
+Package_name:new;
