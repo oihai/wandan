@@ -6,6 +6,7 @@ setTextbox:on;
 miniAvatar:miniavatar.png;
 开发团队:欢迎来到这里，这里是雨中从的梦境;
 您想以哪种模式开始这一游戏呢？;
+changeBg:black.PNG -next;
 setTextbox:hide;
 miniAvatar:none;
 changeFigure: -left -next;

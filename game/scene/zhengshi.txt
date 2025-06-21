@@ -1,3 +1,4 @@
+   :Loading……;
 setTextbox:hide;
 miniAvatar:none;
 playEffect:opendoor.mp3 -volume=100;
