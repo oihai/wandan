@@ -4,6 +4,7 @@ miniAvatar:none;
 playEffect:opendoor.mp3 -volume=100;
 setTextbox:on;
 雨:谁？ -fontSize=large;
+setTransition: -target= -enter=openeye -exit=;
 changeBg:bedroom.png;
 changeFigure:选择立绘文件;
 end;
